@@ -1,0 +1,1 @@
+It saves a user choice to a local storage, so everytime user refreshes the page theme is saved.
