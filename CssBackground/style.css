@@ -30,7 +30,7 @@ body{
     animation: animate 15s linear infinite;
     animation-duration: calc(60s / var(--i)); /* CHANGE HERE FOR THE SPEED
     OF BUBBLES */
-    /* FOR EXAMPLE: animation-duration: calc(120s / var(--i)) */
+    /* FOR EXAMPLE: animation-duration: calc(12s / var(--i)) */
 }
 .bubbles span:nth-child(even)
 {
